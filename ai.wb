@@ -1,0 +1,62 @@
+<start>ai-what is your name
+my name is dawood abbaspour hasanloue
+<end>ai-what is your name
+
+<start>ai-hello.c
+#include <stdio.h>
+
+int main(void)
+{
+    printf("Hello, world!\n");
+}
+<end>ai-hello.c
+<start>ai-pset0
+#include <stdio.h>
+
+int main(void)
+{
+    printf("Hello, world!\n");
+}
+<end>ai-pset0
+<start>ai-water.c get_int
+#include <stdio.h>
+#include <cs50.h>
+
+int main(void)
+{
+      printf("How many minutes long was your shower?\n");
+  
+  int minutes = get_int();
+      printf("Minutes: %i\n", minutes);
+   printf("Bottles: %i\n", minutes * 12);
+}
+
+<end>ai-water.c get_int
+<start>ai-get_int c
+ #include <stdio.h>
+#include <cs50.h>
+
+int main(void)
+{
+      printf("How many minutes long was your shower?\n");
+  
+  int minutes = get_int();
+      printf("Minutes: %i\n", minutes);
+   printf("Bottles: %i\n", minutes * 12);
+  }       
+
+<end>ai-get_int c
+<start>ai-get integer cs50
+ #include <stdio.h>
+#include <cs50.h>
+
+int main(void)
+{
+      printf("How many minutes long was your shower?\n");
+  
+  int minutes = get_int();
+      printf("Minutes: %i\n", minutes);
+   printf("Bottles: %i\n", minutes * 12);
+  }       
+
+<end>ai-get integer cs50
