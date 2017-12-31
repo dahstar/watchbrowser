@@ -108,18 +108,6 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MaterialSkin.dll" size="587776">
-      <assemblyIdentity name="MaterialSkin" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>uYed8V6CxS6RZscfexd8V71MgomCGmWp0/Uiiz9ga04=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ScintillaNET.dll" size="1368064">
       <assemblyIdentity name="ScintillaNET" version="3.6.3.0" language="neutral" processorArchitecture="msil" />
       <hash>
@@ -144,14 +132,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WatchBorwser.exe" size="6314496">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WatchBorwser.exe" size="6017024">
       <assemblyIdentity name="WatchBorwser" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>HSKsa6D0hB5XjBlxnzbXhsk/jhgFu2NyDObHw8jXCUM=</dsig:DigestValue>
+        <dsig:DigestValue>gHcNKOlS5gFLyw8I/GrkhX/bKY+bwraE1Q2EkzHObQE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

@@ -3364,3 +3364,483 @@ AttributeError: module 'importlib._bootstrap' has no attribute 'SourceFileLoader
 [1229/130155.257:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 3
 [1229/130155.257:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 5
 [1229/130155.258:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 7
+[1229/180938.528:ERROR:adm_helpers.cc(62)] Failed to query stereo recording.
+[1229/180938.542:WARNING:delay_based_bwe.cc(302)] BWE Setting start bitrate to: 300000
+[1229/180938.609:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[1229/180938.610:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[1229/180938.744:WARNING:p2ptransportchannel.cc(541)] Jingle:Port[18AF43D0:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[1229/180938.744:WARNING:p2ptransportchannel.cc(541)] Jingle:Port[18AF64B8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[1229/180939.058:WARNING:stunport.cc(381)] Jingle:Port[15EAC550:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[1229/181504.154:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 17
+[1229/181622.369:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 29
+[1229/182156.626:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 29
+[1229/182205.218:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 45
+[1229/182302.046:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 1
+[1229/182302.108:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 3
+[1229/182302.140:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 1
+[1229/182302.381:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 13
+[1229/182302.795:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 15
+[1229/182310.600:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 25
+[1229/182451.867:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 1
+[1229/182452.124:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 3
+[1229/182452.184:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 1
+[1229/182459.002:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 1
+[1229/182459.002:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 27
+[1229/182623.131:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 25
+[1229/182738.575:INFO:CONSOLE(0)] "Uncaught (in promise) NetworkError: A network error occurred.", source: https://www.google.com/?gws_rd=ssl (0)
+[1229/182738.576:INFO:CONSOLE(0)] "Uncaught (in promise) NetworkError: A network error occurred.", source: https://www.google.com/?gws_rd=ssl (0)
+[1229/182738.648:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 3
+[1229/182738.655:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 5
+[1229/182738.731:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 7
+[1229/182819.206:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 1
+[1229/183137.111:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 1
+[1229/183137.144:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 1
+[1229/183137.499:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 3
+[1229/183414.490:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 1
+[1229/183415.164:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 1
+[1229/183415.247:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 11
+[1229/183524.885:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 11
+[1229/183616.620:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 1
+[1229/183617.331:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 19
+[1229/183641.589:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 15
+[1229/183756.551:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 1
+[1229/183756.853:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 3
+[1229/183756.860:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 1
+[1229/183759.654:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 1
+[1229/183803.218:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 29
+[1229/183805.173:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 35
+[1229/183806.132:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 39
+[1229/184134.338:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 1
+[1229/184134.442:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 3
+[1229/184134.481:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 1
+[1229/184134.538:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 11
+[1229/184134.694:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 13
+[1229/184531.625:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 1
+[1229/185854.454:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 1
+[1229/185944.431:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 1
+[1229/185944.483:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 3
+[1229/185944.873:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 1
+[1229/185944.895:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 13
+[1229/185945.001:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 15
+[1229/185947.161:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 23
+[1229/185947.899:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 1
+[1229/190113.590:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 3
+[1229/190221.406:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 1
+[1229/190222.204:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 25
+[1229/190255.734:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 13
+[1229/190255.908:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 15
+[1229/190320.171:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 11
+[1229/190320.501:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 13
+[1229/190437.006:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 23
+[1229/213720.223:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 21
+[1229/213720.361:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 23
+[1229/213720.446:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 25
+[1229/213830.777:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 37
+[1229/213832.283:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 41
+[1229/213832.384:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 43
+[1229/213836.321:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 51
+[1230/112530.827:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 37
+[1230/112532.590:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 41
+[1230/112537.945:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 45
+[1230/112848.914:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 91
+[1230/112904.228:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 99
+[1230/113222.900:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 23
+[1230/113225.742:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 29
+[1230/113257.531:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 41
+[1230/113257.824:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 43
+[1230/113309.223:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 53
+[1230/113350.270:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 23
+[1230/113350.393:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 25
+[1230/113401.852:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 35
+[1230/113403.200:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 39
+[1230/113412.468:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 45
+[1230/113442.299:INFO:CONSOLE(1)] "Automatically scrolling cursor into view after selection change", source: https://ideone.com/gfx2/libs/ace-2017-06/ace.js?1 (1)
+[1230/113442.300:INFO:CONSOLE(1)] "Automatically scrolling cursor into view after selection change", source: https://ideone.com/gfx2/libs/ace-2017-06/ace.js?1 (1)
+[1230/113510.048:ERROR:ssl_client_socket_impl.cc(1091)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1230/113724.722:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 29
+[1230/113919.196:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 23
+[1230/113926.827:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 35
+[1230/114010.333:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 25
+[1230/114033.833:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 33
+[1230/114033.868:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 35
+[1230/114041.025:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 47
+[1230/114638.806:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 23
+[1230/114902.739:INFO:CONSOLE(1)] "Automatically scrolling cursor into view after selection change", source: https://ideone.com/gfx2/libs/ace-2017-06/ace.js?1 (1)
+[1230/114902.739:INFO:CONSOLE(1)] "Automatically scrolling cursor into view after selection change", source: https://ideone.com/gfx2/libs/ace-2017-06/ace.js?1 (1)
+[1230/115810.577:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 21
+[1230/115810.720:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 23
+[1230/115908.859:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 23
+[1230/120355.540:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 21
+[1230/120355.698:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 23
+[1230/120503.262:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 17
+[1230/120544.863:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 21
+[1230/120623.209:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 1
+[1230/120800.743:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 71
+[1230/121308.159:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 23
+[1230/121318.178:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 27
+[1230/121318.342:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 29
+[1230/121330.868:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 33
+[1230/121331.261:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 37
+[1230/121405.380:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 47
+[1230/121405.546:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 49
+[1230/121426.010:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 59
+[1230/121516.344:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 27
+[1230/121528.019:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 35
+[1230/121528.453:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 39
+[1230/122612.828:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 21
+[1230/122613.230:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 25
+[1230/122645.058:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 35
+[1230/122645.162:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 37
+[1230/122645.286:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 39
+[1230/122645.404:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 41
+[1230/124340.557:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 23
+[1230/124344.093:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 31
+[1230/124428.394:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 23
+[1230/124430.671:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 31
+[1230/124430.824:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 33
+[1230/124505.509:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 45
+[1230/124539.762:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 53
+[1230/124540.014:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 55
+[1230/124949.312:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 17
+[1230/124955.386:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 29
+[1230/125347.182:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 1
+[1230/125347.304:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 11
+[1230/125347.334:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 13
+[1230/125358.497:INFO:CONSOLE(1)] "Automatically scrolling cursor into view after selection change", source: https://ideone.com/gfx2/libs/ace-2017-06/ace.js?1 (1)
+[1230/125358.497:INFO:CONSOLE(1)] "Automatically scrolling cursor into view after selection change", source: https://ideone.com/gfx2/libs/ace-2017-06/ace.js?1 (1)
+[1230/125544.155:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 31
+[1230/125544.565:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 35
+[1230/125644.596:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 51
+[1230/125644.955:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 55
+[1230/125828.884:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 21
+[1230/125828.992:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 23
+[1230/125834.429:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 29
+[1230/125918.208:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 19
+[1230/125918.300:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 21
+[1230/125921.858:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 27
+[1230/130243.150:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 25
+[1230/130252.445:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 35
+[1230/130252.642:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 37
+[1230/130333.693:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 27
+[1230/130515.237:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 23
+[1230/130518.449:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 27
+[1230/130539.361:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 45
+[1230/130539.771:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 47
+[1230/130610.446:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 67
+[1230/130718.026:INFO:CONSOLE(1)] "Automatically scrolling cursor into view after selection change", source: https://ideone.com/gfx2/libs/ace-2017-06/ace.js?1 (1)
+[1230/130718.026:INFO:CONSOLE(1)] "Automatically scrolling cursor into view after selection change", source: https://ideone.com/gfx2/libs/ace-2017-06/ace.js?1 (1)
+[1230/131147.606:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 1
+[1230/131822.072:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 25
+[1230/131822.203:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 27
+[1230/131834.375:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 35
+[1230/131834.594:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 37
+[1230/131834.732:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 39
+[1230/131848.045:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 47
+[1230/131848.235:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 49
+[1230/131900.258:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 55
+[1230/131900.548:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 57
+[1230/131904.541:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 63
+[1230/131904.954:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 67
+[1230/131905.436:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 71
+[1230/131905.630:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 73
+[1230/132622.440:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 27
+[1230/175716.456:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 27
+[1230/175717.064:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 31
+[1230/175717.152:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 33
+[1230/175717.369:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 35
+[1230/175717.568:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 37
+[1230/181427.410:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 27
+[1230/181427.524:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 29
+[1230/181434.455:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 33
+[1230/181434.951:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 37
+[1230/181435.179:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 39
+[1230/181435.684:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 43
+[1230/181823.329:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 25
+[1230/181826.847:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 33
+[1230/182006.230:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 21
+[1230/182006.679:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 25
+[1230/182023.439:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 49
+[1230/182156.665:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 27
+[1230/182156.818:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 29
+[1230/184524.897:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 29
+[1230/184525.516:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 31
+[1230/184525.653:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 33
+[1230/184525.653:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 35
+[1230/184526.158:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 37
+[1230/184526.789:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 39
+[1230/184530.858:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 41
+[1230/184537.395:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 45
+[1230/184537.744:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 47
+[1230/184537.957:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 49
+[1230/184538.124:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 51
+[1230/191217.134:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 5
+[1230/191217.848:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 9
+[1230/191227.581:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 15
+[1230/191228.054:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 19
+[1230/191335.661:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 37
+[1230/191335.810:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 39
+[1230/191543.469:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 3
+[1230/191933.393:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 25
+[1230/191933.661:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 27
+[1230/191940.503:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 37
+[1230/191940.686:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 39
+[1230/191940.916:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 41
+[1230/191941.079:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 43
+[1230/191941.321:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 45
+[1230/191941.642:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 47
+[1230/191952.876:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 55
+[1230/192149.369:INFO:CONSOLE(1)] "Automatically scrolling cursor into view after selection change", source: https://ideone.com/gfx2/libs/ace-2017-06/ace.js?1 (1)
+[1230/192149.369:INFO:CONSOLE(1)] "Automatically scrolling cursor into view after selection change", source: https://ideone.com/gfx2/libs/ace-2017-06/ace.js?1 (1)
+[1230/193053.112:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 21
+[1230/193053.544:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 25
+[1230/193056.538:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 33
+[1230/193307.583:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 19
+[1230/193307.653:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 21
+[1230/193307.884:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 25
+[1230/193315.653:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 39
+[1230/193315.757:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 41
+[1230/193315.862:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 43
+[1230/193315.966:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 45
+[1230/193316.194:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 47
+[1230/193324.157:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 59
+[1230/193324.321:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 61
+[1230/193504.007:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 21
+[1230/193504.103:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 23
+[1230/193504.436:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 25
+[1230/193514.047:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 39
+[1230/193712.151:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 15
+[1230/193713.491:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 27
+[1230/193737.526:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 43
+[1230/193737.700:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 45
+[1230/193811.611:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 33
+[1230/193811.735:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 35
+[1230/193812.006:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 37
+[1230/193812.187:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 39
+[1230/193812.608:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 43
+[1230/194610.649:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 21
+[1230/194611.068:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 25
+[1230/194612.130:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 31
+[1230/194645.389:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 19
+[1230/194645.820:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 25
+[1230/194654.772:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 37
+[1230/194655.458:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 41
+[1230/194655.678:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 43
+[1230/194746.523:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 79
+[1230/194746.676:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 81
+[1230/195030.889:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 31
+[1230/195058.196:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 49
+[1230/195058.747:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 53
+[1230/195058.963:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 55
+[1230/195208.774:INFO:CONSOLE(1)] "Automatically scrolling cursor into view after selection change", source: https://ideone.com/gfx2/libs/ace-2017-06/ace.js?1 (1)
+[1230/195208.775:INFO:CONSOLE(1)] "Automatically scrolling cursor into view after selection change", source: https://ideone.com/gfx2/libs/ace-2017-06/ace.js?1 (1)
+[1230/195218.751:ERROR:ssl_client_socket_impl.cc(1091)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1230/195505.507:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 23
+[1230/195505.710:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 25
+[1230/195505.948:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 27
+[1230/210404.955:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 23
+[1230/210405.062:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 25
+[1230/210405.246:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 27
+[1230/210411.398:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 37
+[1230/210411.623:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 39
+[1230/210418.352:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 45
+[1230/210442.228:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 63
+[1230/210442.453:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 65
+[1230/210442.637:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 67
+[1230/210442.855:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 69
+[1230/210526.732:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 77
+[1230/210526.947:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 79
+[1230/211007.064:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 21
+[1230/211007.867:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 25
+[1230/211014.944:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 35
+[1230/211015.183:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 37
+[1230/211015.305:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 39
+[1230/211213.986:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 21
+[1230/211214.465:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 25
+[1230/211215.543:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 33
+[1230/211215.737:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 35
+[1230/211215.926:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 37
+[1230/211246.875:INFO:CONSOLE(1)] "Automatically scrolling cursor into view after selection change", source: https://ideone.com/gfx2/libs/ace-2017-06/ace.js?1 (1)
+[1230/211246.876:INFO:CONSOLE(1)] "Automatically scrolling cursor into view after selection change", source: https://ideone.com/gfx2/libs/ace-2017-06/ace.js?1 (1)
+[1230/213546.110:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'innerText' of undefined", source: https://www.edx.org/sites/default/files/js/js_OWqT85P6-BA03fclrtuha8brsVbYzL0dixQfV1mVyxc.js (1)
+[1230/213602.898:INFO:CONSOLE(5)] "JQMIGRATE: Migrate is installed with logging active, version 1.4.1", source: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.cb449c35a4fc.js (5)
+[1230/213603.128:INFO:CONSOLE(5)] "JQMIGRATE: jQuery.browser is deprecated", source: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.cb449c35a4fc.js (5)
+[1230/213603.128:INFO:CONSOLE(5)] "console.trace", source: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.cb449c35a4fc.js (5)
+[1230/213603.132:INFO:CONSOLE(5)] "JQMIGRATE: jQuery.fn.toggle(handler, handler...) is deprecated", source: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.cb449c35a4fc.js (5)
+[1230/213603.132:INFO:CONSOLE(5)] "console.trace", source: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.cb449c35a4fc.js (5)
+[1230/213603.139:INFO:CONSOLE(5)] "JQMIGRATE: jQuery.fn.size() is deprecated; use the .length property", source: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.cb449c35a4fc.js (5)
+[1230/213603.139:INFO:CONSOLE(5)] "console.trace", source: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.cb449c35a4fc.js (5)
+[1230/213603.190:INFO:CONSOLE(7)] "sprintf() will be removed in the next major release, use the sprintf-js package instead.", source: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.cb449c35a4fc.js (7)
+[1230/213653.931:INFO:CONSOLE(5)] "JQMIGRATE: jQuery.parseJSON requires a valid JSON string", source: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.cb449c35a4fc.js (5)
+[1230/213653.932:INFO:CONSOLE(5)] "console.trace", source: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.cb449c35a4fc.js (5)
+[1230/213656.216:INFO:CONSOLE(5)] "JQMIGRATE: Migrate is installed with logging active, version 1.4.1", source: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.cb449c35a4fc.js (5)
+[1230/213658.114:INFO:CONSOLE(5)] "JQMIGRATE: jQuery.fn.load() is deprecated", source: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.cb449c35a4fc.js (5)
+[1230/213658.114:INFO:CONSOLE(5)] "console.trace", source: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.cb449c35a4fc.js (5)
+[1230/213658.115:INFO:CONSOLE(5)] "JQMIGRATE: jQuery.browser is deprecated", source: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.cb449c35a4fc.js (5)
+[1230/213658.115:INFO:CONSOLE(5)] "console.trace", source: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.cb449c35a4fc.js (5)
+[1230/213658.118:INFO:CONSOLE(5)] "JQMIGRATE: jQuery.fn.toggle(handler, handler...) is deprecated", source: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.cb449c35a4fc.js (5)
+[1230/213658.118:INFO:CONSOLE(5)] "console.trace", source: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.cb449c35a4fc.js (5)
+[1230/213658.139:INFO:CONSOLE(5)] "JQMIGRATE: jQuery.fn.size() is deprecated; use the .length property", source: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.cb449c35a4fc.js (5)
+[1230/213658.140:INFO:CONSOLE(5)] "console.trace", source: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.cb449c35a4fc.js (5)
+[1230/213757.173:INFO:CONSOLE(5)] "JQMIGRATE: Migrate is installed with logging active, version 1.4.1", source: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.cb449c35a4fc.js (5)
+[1230/213759.856:INFO:CONSOLE(5)] "JQMIGRATE: jQuery.fn.load() is deprecated", source: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.cb449c35a4fc.js (5)
+[1230/213759.856:INFO:CONSOLE(5)] "console.trace", source: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.cb449c35a4fc.js (5)
+[1230/213759.863:INFO:CONSOLE(5)] "JQMIGRATE: jQuery.browser is deprecated", source: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.cb449c35a4fc.js (5)
+[1230/213759.863:INFO:CONSOLE(5)] "console.trace", source: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.cb449c35a4fc.js (5)
+[1230/213759.874:INFO:CONSOLE(5)] "JQMIGRATE: jQuery.fn.toggle(handler, handler...) is deprecated", source: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.cb449c35a4fc.js (5)
+[1230/213759.874:INFO:CONSOLE(5)] "console.trace", source: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.cb449c35a4fc.js (5)
+[1230/213759.944:INFO:CONSOLE(5)] "JQMIGRATE: jQuery.fn.size() is deprecated; use the .length property", source: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.cb449c35a4fc.js (5)
+[1230/213759.944:INFO:CONSOLE(5)] "console.trace", source: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.cb449c35a4fc.js (5)
+[1230/214518.198:INFO:CONSOLE(5)] "JQMIGRATE: Migrate is installed with logging active, version 1.4.1", source: https://prod-edxapp.edx-cdn.org/static/js/lms-main_vendor.a04b73033169.js (5)
+[1230/214518.249:INFO:CONSOLE(5)] "JQMIGRATE: jQuery.browser is deprecated", source: https://prod-edxapp.edx-cdn.org/static/js/lms-main_vendor.a04b73033169.js (5)
+[1230/214518.249:INFO:CONSOLE(5)] "console.trace", source: https://prod-edxapp.edx-cdn.org/static/js/lms-main_vendor.a04b73033169.js (5)
+[1230/214518.290:INFO:CONSOLE(5)] "JQMIGRATE: jQuery.fn.toggle(handler, handler...) is deprecated", source: https://prod-edxapp.edx-cdn.org/static/js/lms-main_vendor.a04b73033169.js (5)
+[1230/214518.290:INFO:CONSOLE(5)] "console.trace", source: https://prod-edxapp.edx-cdn.org/static/js/lms-main_vendor.a04b73033169.js (5)
+[1230/214705.416:INFO:CONSOLE(178)] "Architect app started", source: https://ide.cs50.io/dahstar1/ide50 (178)
+[1230/214705.417:INFO:CONSOLE(200)] "Total Load Time: ", source: https://ide.cs50.io/dahstar1/ide50 (200)
+[1230/214705.656:INFO:CONSOLE(9729)] "[OT] Join", source: https://static.c9.io/nc-3.1.4062-1ab3f76f/config/workspace-cs50.js (9729)
+[1230/214705.656:INFO:CONSOLE(9731)] "[OT] Ace session not ready for:", source: https://static.c9.io/nc-3.1.4062-1ab3f76f/config/workspace-cs50.js (9731)
+[1230/214705.705:INFO:CONSOLE(9729)] "[OT] Join", source: https://static.c9.io/nc-3.1.4062-1ab3f76f/config/workspace-cs50.js (9729)
+[1230/214706.213:INFO:CONSOLE(9931)] "Collab not connected - SKIPPING ", source: https://static.c9.io/nc-3.1.4062-1ab3f76f/config/workspace-cs50.js (9931)
+[1230/214706.543:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[1230/214706.545:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[1230/214706.545:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_COULD_NOT_OPEN
+[1230/214706.550:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_COULD_NOT_OPEN
+[1230/214729.647:INFO:CONSOLE(9911)] "Collab connecting", source: https://static.c9.io/nc-3.1.4062-1ab3f76f/config/workspace-cs50.js (9911)
+[1230/214729.649:INFO:CONSOLE(28524)] "[jsonalyzer] connecting", source: https://static.c9.io/nc-3.1.4062-1ab3f76f/config/workspace-cs50.js (28524)
+[1230/214729.675:INFO:CONSOLE(28524)] "[jsonalyzer] connecting", source: https://static.c9.io/nc-3.1.4062-1ab3f76f/config/workspace-cs50.js (28524)
+[1230/214734.462:INFO:CONSOLE(16518)] "PubSub connected", source: https://static.c9.io/nc-3.1.4062-1ab3f76f/config/workspace-cs50.js (16518)
+[1230/214734.862:INFO:CONSOLE(9919)] "COLLAB connected -", source: https://static.c9.io/nc-3.1.4062-1ab3f76f/config/workspace-cs50.js (9919)
+[1230/214735.503:INFO:CONSOLE(9782)] "[OT] Joined", source: https://static.c9.io/nc-3.1.4062-1ab3f76f/config/workspace-cs50.js (9782)
+[1230/214735.525:INFO:CONSOLE(9782)] "[OT] Joined", source: https://static.c9.io/nc-3.1.4062-1ab3f76f/config/workspace-cs50.js (9782)
+[1230/214736.736:INFO:CONSOLE(28525)] "[jsonalyzer] connected", source: https://static.c9.io/nc-3.1.4062-1ab3f76f/config/workspace-cs50.js (28525)
+[1230/214736.930:INFO:CONSOLE(28525)] "[jsonalyzer] connected", source: https://static.c9.io/nc-3.1.4062-1ab3f76f/config/workspace-cs50.js (28525)
+[1230/214737.816:INFO:CONSOLE(1221)] "3929: 277: Error: Command failed: bash -c pylint3 -d all -e E -e F --generated-members=app.jinja_env.* -r n --msg-template={line}:{column}:\ [{msg_id}]\ {msg} --load-plugins pylint_flask,pylint_django '/home/ubuntu/workspace/week8/pset6/.~c9_invoke_Tbgyyv.py'
+Traceback (most recent call last):
+  File "/opt/pyenv/versions/3.6.0/bin/pylint3", line 7, in <module>
+    from pylint import run_pylint
+  File "/opt/pyenv/versions/3.6.0/lib/python3.6/site-packages/pylint/__init__.py", line 8, in <module>
+    from .__pkginfo__ import version as __version__
+  File "/opt/pyenv/versions/3.6.0/lib/python3.6/site-packages/pylint/__pkginfo__.py", line 16, in <module>
+    from pkg_resources import parse_version
+  File "/usr/lib/python3/dist-packages/pkg_resources.py", line 1479, in <module>
+    register_loader_type(importlib_bootstrap.SourceFileLoader, DefaultProvider)
+AttributeError: module 'importlib._bootstrap' has no attribute 'SourceFileLoader'
+
+    at ChildProcess.exithandler (child_process.js:213:12)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at maybeClose (internal/child_process.js:821:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:211:5)", source: https://static.c9.io/nc-3.1.4062-1ab3f76f/worker/plugins/c9.ide.language.core/worker.js (1221)
+[1230/214743.598:INFO:CONSOLE(1221)] "3929: 277: Error: Command failed: bash -c pylint3 -d all -e E -e F --generated-members=app.jinja_env.* -r n --msg-template={line}:{column}:\ [{msg_id}]\ {msg} --load-plugins pylint_flask,pylint_django '/home/ubuntu/workspace/week8/pset6/.~c9_invoke_lIg1mR.py'
+Traceback (most recent call last):
+  File "/opt/pyenv/versions/3.6.0/bin/pylint3", line 7, in <module>
+    from pylint import run_pylint
+  File "/opt/pyenv/versions/3.6.0/lib/python3.6/site-packages/pylint/__init__.py", line 8, in <module>
+    from .__pkginfo__ import version as __version__
+  File "/opt/pyenv/versions/3.6.0/lib/python3.6/site-packages/pylint/__pkginfo__.py", line 16, in <module>
+    from pkg_resources import parse_version
+  File "/usr/lib/python3/dist-packages/pkg_resources.py", line 1479, in <module>
+    register_loader_type(importlib_bootstrap.SourceFileLoader, DefaultProvider)
+AttributeError: module 'importlib._bootstrap' has no attribute 'SourceFileLoader'
+
+    at ChildProcess.exithandler (child_process.js:213:12)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at maybeClose (internal/child_process.js:821:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:211:5)", source: https://static.c9.io/nc-3.1.4062-1ab3f76f/worker/plugins/c9.ide.language.core/worker.js (1221)
+[1230/214814.065:INFO:CONSOLE(1221)] "3929: 277: Error: Command failed: bash -c pylint3 -d all -e E -e F --generated-members=app.jinja_env.* -r n --msg-template={line}:{column}:\ [{msg_id}]\ {msg} --load-plugins pylint_flask,pylint_django '/home/ubuntu/workspace/week8/pset6/.~c9_invoke_goYgc1.py'
+Traceback (most recent call last):
+  File "/opt/pyenv/versions/3.6.0/bin/pylint3", line 7, in <module>
+    from pylint import run_pylint
+  File "/opt/pyenv/versions/3.6.0/lib/python3.6/site-packages/pylint/__init__.py", line 8, in <module>
+    from .__pkginfo__ import version as __version__
+  File "/opt/pyenv/versions/3.6.0/lib/python3.6/site-packages/pylint/__pkginfo__.py", line 16, in <module>
+    from pkg_resources import parse_version
+  File "/usr/lib/python3/dist-packages/pkg_resources.py", line 1479, in <module>
+    register_loader_type(importlib_bootstrap.SourceFileLoader, DefaultProvider)
+AttributeError: module 'importlib._bootstrap' has no attribute 'SourceFileLoader'
+
+    at ChildProcess.exithandler (child_process.js:213:12)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at maybeClose (internal/child_process.js:821:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:211:5)", source: https://static.c9.io/nc-3.1.4062-1ab3f76f/worker/plugins/c9.ide.language.core/worker.js (1221)
+[1230/214816.020:INFO:CONSOLE(1221)] "3929: 277: Error: Command failed: bash -c pylint3 -d all -e E -e F --generated-members=app.jinja_env.* -r n --msg-template={line}:{column}:\ [{msg_id}]\ {msg} --load-plugins pylint_flask,pylint_django '/home/ubuntu/workspace/week8/pset6/.~c9_invoke_Iv2IqI.py'
+Traceback (most recent call last):
+  File "/opt/pyenv/versions/3.6.0/bin/pylint3", line 7, in <module>
+    from pylint import run_pylint
+  File "/opt/pyenv/versions/3.6.0/lib/python3.6/site-packages/pylint/__init__.py", line 8, in <module>
+    from .__pkginfo__ import version as __version__
+  File "/opt/pyenv/versions/3.6.0/lib/python3.6/site-packages/pylint/__pkginfo__.py", line 16, in <module>
+    from pkg_resources import parse_version
+  File "/usr/lib/python3/dist-packages/pkg_resources.py", line 1479, in <module>
+    register_loader_type(importlib_bootstrap.SourceFileLoader, DefaultProvider)
+AttributeError: module 'importlib._bootstrap' has no attribute 'SourceFileLoader'
+
+    at ChildProcess.exithandler (child_process.js:213:12)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at maybeClose (internal/child_process.js:821:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:211:5)", source: https://static.c9.io/nc-3.1.4062-1ab3f76f/worker/plugins/c9.ide.language.core/worker.js (1221)
+[1230/214818.291:INFO:CONSOLE(1221)] "3929: 277: Error: Command failed: bash -c pylint3 -d all -e E -e F --generated-members=app.jinja_env.* -r n --msg-template={line}:{column}:\ [{msg_id}]\ {msg} --load-plugins pylint_flask,pylint_django '/home/ubuntu/workspace/week8/pset6/.~c9_invoke_UyXHkH.py'
+Traceback (most recent call last):
+  File "/opt/pyenv/versions/3.6.0/bin/pylint3", line 7, in <module>
+    from pylint import run_pylint
+  File "/opt/pyenv/versions/3.6.0/lib/python3.6/site-packages/pylint/__init__.py", line 8, in <module>
+    from .__pkginfo__ import version as __version__
+  File "/opt/pyenv/versions/3.6.0/lib/python3.6/site-packages/pylint/__pkginfo__.py", line 16, in <module>
+    from pkg_resources import parse_version
+  File "/usr/lib/python3/dist-packages/pkg_resources.py", line 1479, in <module>
+    register_loader_type(importlib_bootstrap.SourceFileLoader, DefaultProvider)
+AttributeError: module 'importlib._bootstrap' has no attribute 'SourceFileLoader'
+
+    at ChildProcess.exithandler (child_process.js:213:12)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at maybeClose (internal/child_process.js:821:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:211:5)", source: https://static.c9.io/nc-3.1.4062-1ab3f76f/worker/plugins/c9.ide.language.core/worker.js (1221)
+[1230/214819.667:INFO:CONSOLE(49106)] "[python_completer] completions in 767ms (jedi: 193ms): hello.", source: https://static.c9.io/nc-3.1.4062-1ab3f76f/worker/plugins/c9.ide.language.core/worker.js (49106)
+[1230/214820.532:INFO:CONSOLE(1221)] "3929: 277: Error: Command failed: bash -c pylint3 -d all -e E -e F --generated-members=app.jinja_env.* -r n --msg-template={line}:{column}:\ [{msg_id}]\ {msg} --load-plugins pylint_flask,pylint_django '/home/ubuntu/workspace/week8/pset6/.~c9_invoke_9o8FqT.py'
+Traceback (most recent call last):
+  File "/opt/pyenv/versions/3.6.0/bin/pylint3", line 7, in <module>
+    from pylint import run_pylint
+  File "/opt/pyenv/versions/3.6.0/lib/python3.6/site-packages/pylint/__init__.py", line 8, in <module>
+    from .__pkginfo__ import version as __version__
+  File "/opt/pyenv/versions/3.6.0/lib/python3.6/site-packages/pylint/__pkginfo__.py", line 16, in <module>
+    from pkg_resources import parse_version
+  File "/usr/lib/python3/dist-packages/pkg_resources.py", line 1479, in <module>
+    register_loader_type(importlib_bootstrap.SourceFileLoader, DefaultProvider)
+AttributeError: module 'importlib._bootstrap' has no attribute 'SourceFileLoader'
+
+    at ChildProcess.exithandler (child_process.js:213:12)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at maybeClose (internal/child_process.js:821:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:211:5)", source: https://static.c9.io/nc-3.1.4062-1ab3f76f/worker/plugins/c9.ide.language.core/worker.js (1221)
+[1230/214822.640:INFO:CONSOLE(1221)] "3929: 277: Error: Command failed: bash -c pylint3 -d all -e E -e F --generated-members=app.jinja_env.* -r n --msg-template={line}:{column}:\ [{msg_id}]\ {msg} --load-plugins pylint_flask,pylint_django '/home/ubuntu/workspace/week8/pset6/.~c9_invoke_UYgjak.py'
+Traceback (most recent call last):
+  File "/opt/pyenv/versions/3.6.0/bin/pylint3", line 7, in <module>
+    from pylint import run_pylint
+  File "/opt/pyenv/versions/3.6.0/lib/python3.6/site-packages/pylint/__init__.py", line 8, in <module>
+    from .__pkginfo__ import version as __version__
+  File "/opt/pyenv/versions/3.6.0/lib/python3.6/site-packages/pylint/__pkginfo__.py", line 16, in <module>
+    from pkg_resources import parse_version
+  File "/usr/lib/python3/dist-packages/pkg_resources.py", line 1479, in <module>
+    register_loader_type(importlib_bootstrap.SourceFileLoader, DefaultProvider)
+AttributeError: module 'importlib._bootstrap' has no attribute 'SourceFileLoader'
+
+    at ChildProcess.exithandler (child_process.js:213:12)
+    at emitTwo (events.js:87:13)
+    at ChildProcess.emit (events.js:172:7)
+    at maybeClose (internal/child_process.js:821:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:211:5)", source: https://static.c9.io/nc-3.1.4062-1ab3f76f/worker/plugins/c9.ide.language.core/worker.js (1221)
+[1231/101414.302:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 15
+[1231/101415.501:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 23
+[1231/101448.728:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 31
+[1231/101503.304:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 39
+[1231/101743.297:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 21
+[1231/101743.394:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 23
+[1231/101743.692:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 25
+[1231/101753.272:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 35
+[1231/101753.601:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 39
+[1231/101754.472:WARNING:spdy_session.cc(2921)] Received HEADERS for invalid stream 45
